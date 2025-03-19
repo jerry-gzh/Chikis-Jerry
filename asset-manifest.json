@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Chikis-Jerry/static/css/main.d3050217.css",
+    "main.css": "/Chikis-Jerry/static/css/main.ec2d0454.css",
     "main.js": "/Chikis-Jerry/static/js/main.028ae025.js",
     "static/js/453.0a4430b4.chunk.js": "/Chikis-Jerry/static/js/453.0a4430b4.chunk.js",
     "static/media/portada.png": "/Chikis-Jerry/static/media/portada.74683b4a01cac4bf33f2.png",
     "static/media/a.png": "/Chikis-Jerry/static/media/a.80630914e3fc0654f9f9.png",
     "static/media/background.png": "/Chikis-Jerry/static/media/background.25d1024ecc6bdea7b546.png",
     "index.html": "/Chikis-Jerry/index.html",
-    "main.d3050217.css.map": "/Chikis-Jerry/static/css/main.d3050217.css.map",
+    "main.ec2d0454.css.map": "/Chikis-Jerry/static/css/main.ec2d0454.css.map",
     "main.028ae025.js.map": "/Chikis-Jerry/static/js/main.028ae025.js.map",
     "453.0a4430b4.chunk.js.map": "/Chikis-Jerry/static/js/453.0a4430b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3050217.css",
+    "static/css/main.ec2d0454.css",
     "static/js/main.028ae025.js"
   ]
 }
