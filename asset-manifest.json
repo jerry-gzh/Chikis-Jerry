@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Chikis-Jerry/static/css/main.7a9565d2.css",
-    "main.js": "/Chikis-Jerry/static/js/main.08163a3c.js",
+    "main.css": "/Chikis-Jerry/static/css/main.d3050217.css",
+    "main.js": "/Chikis-Jerry/static/js/main.028ae025.js",
     "static/js/453.0a4430b4.chunk.js": "/Chikis-Jerry/static/js/453.0a4430b4.chunk.js",
     "static/media/portada.png": "/Chikis-Jerry/static/media/portada.74683b4a01cac4bf33f2.png",
     "static/media/a.png": "/Chikis-Jerry/static/media/a.80630914e3fc0654f9f9.png",
     "static/media/background.png": "/Chikis-Jerry/static/media/background.25d1024ecc6bdea7b546.png",
     "index.html": "/Chikis-Jerry/index.html",
-    "main.7a9565d2.css.map": "/Chikis-Jerry/static/css/main.7a9565d2.css.map",
-    "main.08163a3c.js.map": "/Chikis-Jerry/static/js/main.08163a3c.js.map",
+    "main.d3050217.css.map": "/Chikis-Jerry/static/css/main.d3050217.css.map",
+    "main.028ae025.js.map": "/Chikis-Jerry/static/js/main.028ae025.js.map",
     "453.0a4430b4.chunk.js.map": "/Chikis-Jerry/static/js/453.0a4430b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a9565d2.css",
-    "static/js/main.08163a3c.js"
+    "static/css/main.d3050217.css",
+    "static/js/main.028ae025.js"
   ]
 }
